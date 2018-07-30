@@ -21,7 +21,7 @@ This contains a potentially useful code I made after talking with my supervisor 
 cnw_B3_S23.m
 ------------
 
-A clunky MATLAB version of of Conway’s Game of Life.
+A clunky MATLAB version of Conway’s Game of Life.
 
 expungeText.m, cCipher.m and vigenere.m
 ---------------------------------------
